@@ -28,8 +28,7 @@
   },
   "config": {
     "commitizen": {
-      "path": "./node_modules/cz-emoji-conventional",
-      "useGitmojis": true
+      "path": "./node_modules/cz-conventional-changelog"
     }
   }
 }
